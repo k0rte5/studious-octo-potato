@@ -16,7 +16,7 @@ Small side-project dedicated to fetching RSU of Kosygin and turning it into ICS 
 
 **New TBA:**
 - [x] fetch script
-- [ ] .xlsx to Pandas Dataframe conversion
+- [x] .xlsx to Pandas Dataframe conversion
 - [ ] Dataframe to .ics conversion
 - [ ] readme extension, instructions
 - [ ] Optional: add a simple CLI/GUI
