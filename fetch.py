@@ -7,3 +7,4 @@ filename=url.split('/')[-1]
 r=requests.get(url)
 with open(filename, 'wb') as f:
     f.write(r.content)
+    print(f"{filename} saved")
