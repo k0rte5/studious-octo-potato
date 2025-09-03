@@ -1,4 +1,4 @@
 .venv
 global_requirements.txt
-*курс*.xlsx
+*курс*.xlsx*
 *расписание.ics
