@@ -20,5 +20,7 @@ Small side-project dedicated to fetching RSU of Kosygin and turning it into ICS 
 - [ ] Dataframe to .ics conversion
 - [ ] readme extension, instructions
 - [ ] Optional: add a simple CLI/GUI
+- [ ] Make a function that automatically calculates dates and weekdays for the first events
+- [ ] Make class or function that autoextracts data from cells
 
 > Please note that this project is being vibecoded in a way "I don't use AI but I only code the stuff the way I want" so some things may be implemented way less elegant or efficient than they could and some can become quite overcomplicated.
