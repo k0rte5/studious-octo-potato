@@ -17,7 +17,7 @@ Small side-project dedicated to fetching RSU of Kosygin and turning it into ICS 
 **New TBA:**
 - [x] fetch script
 - [x] .xlsx to Pandas Dataframe conversion
-- [ ] Dataframe to .ics conversion
+- [x] Dataframe to .ics conversion
 - [ ] readme extension, instructions
 - [ ] Optional: add a simple CLI/GUI
 - [ ] Make a function that automatically calculates dates and weekdays for the first events
